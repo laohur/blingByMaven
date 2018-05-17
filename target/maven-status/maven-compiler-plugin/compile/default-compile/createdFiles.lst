@@ -1,0 +1,5 @@
+com\tifup\bling\BlingApplication.class
+com\tifup\bling\controller\ItemController.class
+com\tifup\bling\service\ItemService.class
+com\tifup\bling\model\ItemModel.class
+com\tifup\bling\dao\ItemMapper.class
